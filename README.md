@@ -9,4 +9,4 @@ Dalam implementasi ini, kita menggunakan linked list untuk merepresentasikan uru
 
 Berikut adalah Output
 
-![Screen Shot 2023-03-18 at 1 18 33 AM](https://user-images.githubusercontent.com/126859339/225974435-772ed218-2744-4725-9b52-429f5f690c4a.png)
+![Screen Shot 2023-03-18 at 1 20 49 AM](https://user-images.githubusercontent.com/126859339/225974922-f43f124c-2d40-4ff2-9737-577d2ae13134.png)
